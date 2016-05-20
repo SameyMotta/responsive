@@ -4,6 +4,7 @@ $color-fondo-dos:#3C3C57;
 $color-letra:#FBA61D;
 $color-letraa:#F1F0EE;
 $tipografia:"Courgette",sansserif;
+$tipografiaa:"Arial",sansserif;
 
 $imgen:100%;
 
@@ -36,8 +37,8 @@ li{
 }
 
 a{
-	font-family:$tipografia;
-	color:$color-letraa;
+	font-family:$tipografiaa;
+	color:white;
 	font-size: 20px;
 
 }
